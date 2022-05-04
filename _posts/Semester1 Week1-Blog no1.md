@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: Semester 1: Week 1- Digital Technology is Not Neutral
-date:
+title: "Semester 1: Week 1- Digital Technology is Not Neutral"
 categories: Blog Posts
 permalink: /post1/
+
 ---
 
 Prior to being an intern at Create Caribbean, I knew little information about digital humanities and technology, however, director Dr Espirit educated us on such a topic. Www.education.vic.gov.au defines digital technology as 'electronic tools, systems, devices and resources that generate, store or process data.' These tools aid in manoeuvring in this digital age. Through further discussions, I also learned that there is a Bill of Rights that states all students have the right-
@@ -29,3 +29,4 @@ As well as principles for learning in the digital age;
 10.Play- Open online education should encourage unexpected experiments and questions. In other words, you need to encourage play.
 
 During my reading on "Ideologies of Boring Things The Internet and Infrastructures of Race“ by Emily Drabinski, Safiya Umoja Noble, in her book “Algorithms of Oppression”, instead of focusing on what makes it possible, explores the Internet as an infrastructure, looking at what remains hidden from sight by mathematical algorithms. Noble instead argues that the Web is a repressive machine, "a series of" digital choices "that strengthen repressive social relationships and force new forms of racial profiling. She further expounds on the racial stereotypes of black women through the eyes of white people, mainly men. In her book, Noble also stated that tech companies cause problems due to algorithms, from various media platforms to platforms that promote racism. This article, really opened my eyes to the hidden aspects of search engines and the impact it has on race.
+
