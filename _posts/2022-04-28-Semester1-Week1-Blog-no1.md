@@ -7,14 +7,14 @@ categories: Blog Posts
 ---
 
 Prior to being an intern at Create Caribbean, I knew little information about digital humanities and technology, however, director Dr Espirit educated us on such a topic. Www.education.vic.gov.au defines digital technology as 'electronic tools, systems, devices and resources that generate, store or process data.' These tools aid in manoeuvring in this digital age. Through further discussions, I also learned that there is a Bill of Rights that states all students have the right-
-1. Access- Online learning has the potential to ensure that this right is a reality for a greater percentage of the world`s population than has ever been realizable before.
+1. Access- Online learning has the potential to ensure that this right is a reality for a greater percentage of the worlds population than has ever been realizable before.
 2. Privacy- Student privacy is an inalienable right regardless of whether learning takes place in a brick-and-mortar institution or online.
 3. Create public knowledge- Learners within a global have the right to work, network, and contribute to knowledge in public.
 4. Own one’s personal data and intellectual property- Students also have the right to create and own intellectual property and data related to attending online courses.
 5. Financial transparency- Students have the right to know how participation supports the financial health of the online system they participate in.
 6. Pedagogical transparency- Students have the right to understand the intended outcomes of online programs or initiatives.
 7. Have great teachers- All students need compassionate teachers in a learning environment that meets their specific learning goals and needs.
-8. Be teachers- Students can participate in and shape one another`s learning through peer interaction and by forming virtual and real-world networks.
+8. Be teachers- Students can participate in and shape one anothers learning through peer interaction and by forming virtual and real-world networks.
 
 As well as principles for learning in the digital age;
 1. Global contribution- Online learning should take place around the world, not just in the United States and other tech-savvy countries.
