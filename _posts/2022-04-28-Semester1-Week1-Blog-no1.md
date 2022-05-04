@@ -14,7 +14,7 @@ Prior to being an intern at Create Caribbean, I knew little information about di
 5. Financial transparency- Students have the right to know how participation supports the financial health of the online system they participate in.
 6. Pedagogical transparency- Students have the right to understand the intended outcomes of online programs or initiatives.
 7. Have great teachers- All students need compassionate teachers in a learning environment that meets their specific learning goals and needs.
-8. Be teachers- Students can participate in and shape one anothers learning through peer interaction and by forming virtual and real-world networks.
+8. Be teachers- Students can participate in and shape one another's learning through peer interaction and by forming virtual and real-world networks.
 
 As well as principles for learning in the digital age;
 1. Global contribution- Online learning should take place around the world, not just in the United States and other tech-savvy countries.
