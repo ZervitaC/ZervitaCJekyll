@@ -21,9 +21,7 @@
 title: Zervita Charles
 email: zervitaccharles@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Welcome to my intern's page! Here you will find my reading blog posts and progress reports. You will also find my project proposal and annotated bibliograohy for my individual project, The Adventures of Caribbean Children's Literature.
 baseurl: "/ZervitaCJekyll" # the subpath of your site, e.g. /blog
 url: "https://ZervitaC.github.io/ZervitaCJekyll" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZeeZZZ_04
